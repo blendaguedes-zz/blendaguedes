@@ -6,9 +6,7 @@ Besides that I have the goal to explorer 🔭 and create 💻 Data Science Proje
 
 Here you will find projects that are related to astronomy and a lot of Python 🐍. 
 
-##### Can't live without
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+##### Can't live without  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="20" style="vertical-align:top; margin:4px">
 
 ##### Has experience 
 ##### Work in progress
