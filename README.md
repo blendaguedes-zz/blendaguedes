@@ -18,6 +18,7 @@ Here you will find projects that are related to astronomy and a lot of Python ðŸ
 
 #### Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blendaguedes/)](https://www.linkedin.com/in/blendaguedes/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://blendaguedes.medium.com/)](https://blendaguedes.medium.com)
 
 
 
