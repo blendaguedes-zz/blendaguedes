@@ -8,6 +8,7 @@ Here you will find projects that are related to astronomy and a lot of Python ðŸ
 
 ##### Can't live without
 <img src="https://github.com/blendaguedes/blendaguedes/blob/main/icons8-python.svg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
+
 ##### Has experience with
 <img src="https://github.com/blendaguedes/blendaguedes/blob/main/java.svg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
 
