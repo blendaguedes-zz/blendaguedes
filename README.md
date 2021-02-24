@@ -1,10 +1,16 @@
-### Oi, I'm Blenda 😀
+### Oi, I'm Blenda 👩🏻‍💻💪🐈‍⬛🪐🌖
 
 I’m a graduate student in applied computing and an astronomy lover. My current research combines Machine Learning and Gravitational Waves simulation. I'm also working as Educational Consult.  
 
 Besides that I have the goal to explorer 🔭 and create 💻 Data Science Projects. 
 
-#You can also find me elsewhere
+Here you will find projects that are related to astronomy and a lot of Python 🐍. 
+
+- Can't live without [<img src="https://img.icons8.com/color/64/000000/python.png&style=flat-square">]
+##### Has experience 
+##### Work in progress
+
+#### Find me elsewhere
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/blendaguedes/)
 
