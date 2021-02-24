@@ -10,26 +10,18 @@ Here you will find projects that are related to astronomy and a lot of Python �
 <img src="https://github.com/blendaguedes/blendaguedes/blob/main/icons8-python.svg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
 
 ##### Has experience with
-<img src="https://github.com/blendaguedes/blendaguedes/blob/main/java.svg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
+<img src="https://github.com/blendaguedes/blendaguedes/blob/main/java.svg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px"> <img src="https://github.com/blendaguedes/blendaguedes/blob/main/1200px-Pandas_logo.svg.png" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px"> <img src="https://github.com/blendaguedes/blendaguedes/blob/main/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png.jpeg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
 
 ##### Work in progress
+<img src="https://github.com/blendaguedes/blendaguedes/blob/main/js.jpeg" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
+<img src="https://github.com/blendaguedes/blendaguedes/blob/main/php.png" alt="Python" height="25" style="vertical-align:bottom; margin-top:5px">
+
 
 #### Find me elsewhere
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blendaguedes/)](https://www.linkedin.com/in/blendaguedes/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/blendaguedes/)
 
 
 ```
 Women’s rights are human rights. 
 ```
-
-
-```- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
