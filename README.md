@@ -2,7 +2,7 @@
 
 I’m a graduate student in Applied Computing and an **Astronomy** lover. My current research combines **Machine Learning** and **Gravitational Waves** simulation. I'm also working as Educational Consultant.  
 
-I have the goal to explorer 🔭 and create 💻 Data Science Projects. 
+In addition have the goal to explorer 🔭 and create 💻 Data Science Projects. 
 
 Here you will find projects that are related to astronomy and a lot of Python 🐍. 
 
