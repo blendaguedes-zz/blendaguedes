@@ -1,6 +1,6 @@
 ### Oi, I'm Blenda 👩🏻‍💻💪🐈‍⬛🪐🌖
 
-I’m a graduate student in Applied Computing and an **Astronomy** lover. My current research combines **Machine Learning** and **Gravitational Waves** simulation. I'm also working as Educational Consultant.  
+I am a Data Scientist and a graduate student in Applied Computing and an **Astronomy** lover. My current research combines **Machine Learning** and **Gravitational Waves** simulation. 
 
 Moveover, my goal is to explore 🔭 and create 💻 Data Science Projects. 
 
